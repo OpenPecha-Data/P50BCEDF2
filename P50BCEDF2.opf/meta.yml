@@ -1,0 +1,15 @@
+id: P50BCEDF2
+initial_creation_type: input
+source_metadata:
+  title: Fourteenth Karmapa Series
+  language: en
+  description: 'Texts by the 14th Karmapa, Tekchok Dorje (theg mchog rdo rje, 1798/89–1868/69):'
+  volume:
+    9b364fe84eb24bf8852ec4e747f93b8b:
+      title: Lamp Aspiration Prayer (from the Tsok Offering 'A Rain of Blessings')
+      parent: Prayers
+    5b3abb288dba45e381721e4d82043715:
+      title: Prayer for the Land of Great Bliss Practice
+      parent: Prayers
+created_at: '2022-02-28T23:18:55.031485'
+last_modified_at: '2022-02-28T23:18:55.031491'
